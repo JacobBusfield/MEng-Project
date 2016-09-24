@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\Agent Based Simulation\car.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\lights.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\location.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\MOE.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\node.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\road.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\route.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\simulation.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\system.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Agent Based Simulation\varClock.cpp">
+      <Filter>Agent Based Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\EpiNet\Calculations.cpp">
+      <Filter>EpiNet</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\EpiNet\EpigeneticMolecule.cpp">
+      <Filter>EpiNet</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\EpiNet\Gene.cpp">
+      <Filter>EpiNet</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\EpiNet\Network.cpp">
+      <Filter>EpiNet</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Evolution\Evolution.cpp">
+      <Filter>Evolution</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\_Top Level\functions.cpp">
+      <Filter>_Top Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\_Top Level\main.cpp">
+      <Filter>_Top Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\_Top Level\stdafx.cpp">
+      <Filter>_Top Level</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Agent Based Simulation\car.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\lights.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\location.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\MOE.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\node.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\road.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\route.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\simulation.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\system.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Agent Based Simulation\varClock.h">
+      <Filter>Agent Based Simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EpiNet\Network.h">
+      <Filter>EpiNet</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EpiNet\Calculations.h">
+      <Filter>EpiNet</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EpiNet\EpigeneticMolecule.h">
+      <Filter>EpiNet</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EpiNet\Gene.h">
+      <Filter>EpiNet</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Evolution\Evolution.h">
+      <Filter>Evolution</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\_Top Level\config.h">
+      <Filter>_Top Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\_Top Level\files.h">
+      <Filter>_Top Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\_Top Level\functions.h">
+      <Filter>_Top Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\_Top Level\targetver.h">
+      <Filter>_Top Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\_Top Level\stdafx.h">
+      <Filter>_Top Level</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="EpiNet">
+      <UniqueIdentifier>{2224a0f9-ecf0-4109-a0a2-728b7eee6045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Evolution">
+      <UniqueIdentifier>{33cf9a2c-7482-4a62-9755-b6965fcb4468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Agent Based Simulation">
+      <UniqueIdentifier>{a742e514-349c-4e61-a103-afa0efde4a7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Top Level">
+      <UniqueIdentifier>{418a264d-65d1-4186-8afa-ecc520c3201b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
